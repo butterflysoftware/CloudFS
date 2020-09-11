@@ -1,2 +1,2 @@
 # CloudFS
-CloudFS is a open-source distributed virtual file system (DVFS).
+CloudFS is a open-source cloud-powered distributed virtual file system (DVFS).
